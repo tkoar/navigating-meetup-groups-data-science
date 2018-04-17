@@ -3,7 +3,8 @@
 
 ## Introduction
 
-Okay, we've covered a lot in this section. We have learned how to work with lists, dictionaries, functions, and even visualizing data with libraries like folium and plotly. In this lab, we will bring all these skills together and flex our new found data science skills. As burgeoning data scienctists in the tech community, we are going to need to find ways to grow our network and find ways to learn more skills. Meetup is a great site for finding groups catered to particular interests and industries. This is a great way for us to expand our network and find events to learn more about how python and data science is being used in the marketplace. 
+Okay, we've covered a lot in this section. We have learned how to work with lists, dictionaries, functions, and even visualizing data with libraries like folium and plotly. In this lab, we will bring all these skills together and flex our new found data science skills. 
+We have been traveling a lot in this lesson and as we get more serious about our burgeoning data science career in the tech community, we are going to need to find ways to grow our network and learn new skills. Meetup is a great site for finding groups catered to particular interests and industries. This is a great way for us to expand our network and find events to learn more about how python and data science is being used in the marketplace. 
 
 Our goal is to visualize data from the Meetup API to show which cities have the most active Python and Data Science communities. Let's get started!
 
